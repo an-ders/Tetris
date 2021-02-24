@@ -10,6 +10,4 @@ Space to hard drop
 
 C to hold
 
-Play the game here! 
-
-[Link](https://madeyouloook.github.io/Tetris/)
+[Play the game here!](https://madeyouloook.github.io/Tetris/)
